@@ -19,3 +19,6 @@
 [submodule "plugins/community/x64dbgbinja"]
 	path = plugins/community/x64dbgbinja
 	url = https://github.com/x64dbg/x64dbgbinja
+[submodule "plugins/community/list_comments"]
+	path = plugins/community/list_comments
+	url = https://github.com/rick2600/list_comments
