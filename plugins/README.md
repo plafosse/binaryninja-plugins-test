@@ -19,5 +19,6 @@
 |[List Comments](https://github.com/rick2600/list_comments)|[rick2600](https://github.com/rick2600)|[MIT](community/list_comments/LICENSE)|List all comments.|
 |[Smali Architecture Plugin](https://github.com/lucasduffey/smaliBinja_python)|[Lucas Duffey](https://github.com/lucasduffey)|[MIT](community/smaliBinja_python/LICENSE)|Extracts dex from APK, and dissembles into Smalli bytecode.|
 |[x64dbgbinja](https://github.com/x64dbg/x64dbgbinja)|[x64dbg](https://github.com/x64dbg)|[MIT](community/x64dbgbinja/LICENSE)|Official x64dbg plugin for Binary Ninja.|
+|[Xref Call Finder](https://github.com/rick2600/xref_call_finder)|[rick2600](https://github.com/rick2600)|[MIT](community/xref_call_finder/LICENSE)|Print call chains to a target function|
 
 

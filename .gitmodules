@@ -22,3 +22,6 @@
 [submodule "plugins/community/list_comments"]
 	path = plugins/community/list_comments
 	url = https://github.com/rick2600/list_comments
+[submodule "plugins/community/xref_call_finder"]
+	path = plugins/community/xref_call_finder
+	url = https://github.com/rick2600/xref_call_finder
