@@ -25,3 +25,6 @@
 [submodule "plugins/community/xref_call_finder"]
 	path = plugins/community/xref_call_finder
 	url = https://github.com/rick2600/xref_call_finder
+[submodule "plugins/community/my-plugin"]
+	path = plugins/community/my-plugin
+	url = https://github.com/plafosse/my-plugin.git
