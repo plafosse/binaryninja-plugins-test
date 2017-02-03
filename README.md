@@ -1,3 +1,4 @@
+# Update
 # Binary Ninja Plugins
 
 Repository to track Binary Ninja Plugins, Themes, and other related tools
